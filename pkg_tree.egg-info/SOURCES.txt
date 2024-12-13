@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pkg_tree/Tree.py
+pkg_tree/__init__.py
+pkg_tree.egg-info/PKG-INFO
+pkg_tree.egg-info/SOURCES.txt
+pkg_tree.egg-info/dependency_links.txt
+pkg_tree.egg-info/top_level.txt
