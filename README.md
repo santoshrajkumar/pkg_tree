@@ -12,7 +12,7 @@
 
 ## Installation
 
-You can install `pkg_tree` using pip once it's uploaded to PyPI:
+You can install using
 
 ```bash
 pip install git+https://github.com/santoshrajkumar/pkg_tree.git
